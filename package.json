@@ -1,5 +1,5 @@
 {
-  "name": "lzeng-util",
+  "name": "lzengp-util",
   "version": "1.0.3",
   "description": "一个基础工具库",
   "main": "lib/index.js",
